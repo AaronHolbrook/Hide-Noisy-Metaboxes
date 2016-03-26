@@ -31,4 +31,3 @@ function hide_noisy_metaboxes() {
 		update_user_option( 1, 'show_welcome_panel', 0, true );
 	}
 }
-

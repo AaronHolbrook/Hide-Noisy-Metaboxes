@@ -22,4 +22,5 @@ Hides noisy metaboxes from Dashboard for User 1. Generally used by Developers du
 == Changelog ==
 
 1.0.1 - Code cleanup and testing on 4.4.2
+
 1.0 - Initial release
